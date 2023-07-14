@@ -1,4 +1,4 @@
-# Omnifood
+# Omni Food
 This is a web-based created using Html&Css.
 
 ## Demo
